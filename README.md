@@ -9,4 +9,4 @@ This app demonstrates the following views and techniques:
 
 It was implemented within the Developing Android Apps with Kotlin on Udacity, the code is based on this repository:
 
-> https://github.com/udacity/andfun-kotlin-color-my-views/tree/Step.03-Solution-Basline-constraint-Button-chain
+> https://github.com/udacity/andfun-kotlin-color-my-views/tree/Step.01-Exercise-Add-Box-One
