@@ -1,4 +1,4 @@
-# Color-my-views
+# Color my views
 
 The ColorMyViews app is a demo game app that lets users click to color boxes and the background.
 
